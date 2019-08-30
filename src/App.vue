@@ -6,7 +6,6 @@
 </template>
 
 <script>
-import GameConsole from '@/components/GameConsole';
 export default {
   name: 'App'
 }
